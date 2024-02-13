@@ -19,9 +19,9 @@ Logtime = 57:12:50
 
 2) Get your API credentials from the intranet.
 
-	a) Go to intranet profile > your name on top right > Settings > API > Register New API.
+	a) Go to intranet profile > your name on top right > Settings > API > Register New API. Now you should be at the URL `https://profile.intra.42.fr/oauth/applications/new`.
 	
-	b) Now you should be at the URL `https://profile.intra.42.fr/oauth/applications/new`. Fill out the name field with a name of your choice.
+	b) Fill out the name field with a name of your choice.
 	
 	c) Fill out the "Redirect URI" field with a valid URI like `https://www.google.com/`.
 	
