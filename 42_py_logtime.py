@@ -1,6 +1,3 @@
-# author: tunsal - www.github.com/upperdim
-# docs: https://api.intra.42.fr/apidoc/2.0/users/locations_stats.html
-
 import datetime
 from oauthlib.oauth2 import BackendApplicationClient
 from requests_oauthlib import OAuth2Session
