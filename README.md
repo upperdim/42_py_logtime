@@ -3,6 +3,17 @@
 
 Small script for Ecole 42 students to get the total intranet log time of the current month.
 
+## Usage
+
+**(Linux / MacOS)** Run `./logtime.sh`.
+
+Example:
+
+```
+$>./logtime.sh 
+Logtime = 57:12:50
+```
+
 ## Installation
 1) **(Linux / MacOS)** Run `./install.sh`.
 
@@ -33,10 +44,6 @@ Small script for Ecole 42 students to get the total intranet log time of the cur
 	USERNAME = "your intra nickname"
 	```
 	**WARNING**: Don't share these credentials!
-
-## Usage
-
-**(Linux / MacOS)** Run `./logtime.sh`.
 
 ## Disclaimer
 
