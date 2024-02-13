@@ -4,7 +4,9 @@
 Small script for Ecole 42 students to get the total intranet log time of the current month.
 
 ## Installation
-1) Get your API credentials from the intranet.
+1) **(Linux / MacOS)** Run `./install.sh`.
+
+2) Get your API credentials from the intranet.
 
 	a) Go to intranet profile.
 
@@ -23,8 +25,6 @@ Small script for Ecole 42 students to get the total intranet log time of the cur
 	h) Click "Submit".
 	
 	i) You should be seeing your credentials now, proceed to the next step.
-
-2) **(Linux / MacOS)** Run `./install.sh`.
 
 3) Go to `credentials.py` and fill it with the template below where `UID` and `SECRET` are your 42 API credentials and save it.
 	```
