@@ -19,23 +19,13 @@ Logtime = 57:12:50
 
 2) Get your API credentials from the intranet.
 
-	a) Go to intranet profile.
-
-	b) Click your name on top right.
-
-	c) Go to "Settings".
-
-	d) Go to "API".
-
-	e) Click on "Register New API". Now you should be at the URL `https://profile.intra.42.fr/oauth/applications/new`.
+	a) Go to intranet profile > your name on top right > Settings > API > Register New API.
 	
-	f) Fill out the name field with a name of your choice.
+	b) Now you should be at the URL `https://profile.intra.42.fr/oauth/applications/new`. Fill out the name field with a name of your choice.
 	
-	g) Fill out the "Redirect URI" field with a valid URI like `https://www.google.com/`.
+	c) Fill out the "Redirect URI" field with a valid URI like `https://www.google.com/`.
 	
-	h) Click "Submit".
-	
-	i) You should be seeing your credentials now, proceed to the next step.
+	d) Click "Submit". You should be seeing your credentials now, proceed to the next step.
 
 3) Go to `credentials.py` and fill it with the template below where `UID` and `SECRET` are your 42 API credentials and save it.
 	```
