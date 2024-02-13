@@ -37,3 +37,7 @@ Small script for Ecole 42 students to get the total intranet log time of the cur
 ## Usage
 
 **(Linux / MacOS)** Run `./logtime.sh`.
+
+## Disclaimer
+
+Neither the API or script is guaranteed to be acurrate. This script comes with no warranty.
