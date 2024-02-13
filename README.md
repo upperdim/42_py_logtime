@@ -23,16 +23,16 @@ Small script for Ecole 42 students to get the total intranet log time of the cur
 	h) Click "Submit".
 	
 	i) You should be seeing your credentials now, proceed to the next step.
-	
-2) Create a `credentials.py` and fill it with the template below where `UID` and `SECRET` are your 42 API credentials and save it.
+
+2) **(Linux / MacOS)** Run `./install.sh`.
+
+3) Go to `credentials.py` and fill it with the template below where `UID` and `SECRET` are your 42 API credentials and save it.
 	```
 	UID = "your 42 API UID from intranet API page"
 	SECRET = "your 42 API SECRET from intranet API page"
 	USERNAME = "your intra nickname"
 	```
 	**WARNING**: Don't share these credentials!
-
-3) **(Linux / MacOS)** Run `./install.sh`.
 
 ## Usage
 
